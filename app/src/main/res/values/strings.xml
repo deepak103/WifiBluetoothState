@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WifiBluetoothState</string>
+    <string name="wifi_is_currently_off">Wifi is : </string>
+    <string name="wifi_is_connected_y_n">Wifi Connection status : </string>
+    <string name="wifi">WiFi</string>
+    <string name="bluetooth_on_off">Bluetooth ON/OFF</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="bluetooth_is_currently_off">Bluetooth is currently off</string>
+</resources>
